@@ -1,5 +1,9 @@
 ## ARC102 : Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab
 
+### ⚠️ Wait! Before You Copy The Code:
+**Did this 1-click script save your time and effort?** 
+Show some love and support my hard work by subscribing to the channel. It takes 1 second for you, but it helps me create more automated scripts daily! ❤️
+
 ```
 export BUCKET=
 export TOPIC=
@@ -12,7 +16,3 @@ curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/hea
 sudo chmod +x SPMDGC.sh
 ./SPMDGC.sh
 ```
-
-<a href="https://www.youtube.com/@PerkVers" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Subscribe_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=white&gradient=linear-gradient(90deg, #FF0000, #CC0000)" alt="YouTube"/>
-</a>
